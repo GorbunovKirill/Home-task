@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "pqxx-build",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-pqxx-build-Debug-77ca6337eb1d537755c5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "C:/Users/Kir17/source/repos/libpqxx-7.9.1"
+				},
+				{
+					"build" : "pqxx-build/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-pqxx-build.src-Debug-3b1153aad076087031c3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "C:/Users/Kir17/source/repos/libpqxx-7.9.1/src",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "pqxx-build/include",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-pqxx-build.include-Debug-93eabe0ef0f1b7bb9780.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "C:/Users/Kir17/source/repos/libpqxx-7.9.1/include"
+				},
+				{
+					"build" : "pqxx-build/test",
+					"jsonFile" : "directory-pqxx-build.test-Debug-26d6ba7c64c292d9479a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "C:/Users/Kir17/source/repos/libpqxx-7.9.1/test",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PqxxProject2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "libpqxx",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PqxxProject2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PqxxProject2-Debug-a9cf2d3851c5796b6236.json",
+					"name" : "PqxxProject2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "pqxx::@32063c78aea34bff505c",
+					"jsonFile" : "target-pqxx-Debug-448289a91c6b1ac7d5a4.json",
+					"name" : "pqxx",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "runner::@813ff6a9b2db031c2ef6",
+					"jsonFile" : "target-runner-Debug-8c50a19804e6509fb188.json",
+					"name" : "runner",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug",
+		"source" : "C:/Users/Kir17/source/repos/PqxxProject2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

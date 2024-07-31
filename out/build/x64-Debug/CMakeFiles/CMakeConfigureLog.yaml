@@ -1,0 +1,1918 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake:233 (message)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      The system is: Windows - 10.0.22631 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.39.33519/bin/Hostx64/x64/cl.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.39.33523 для x64
+      (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+      
+      CMakeCCompilerId.c
+      Microsoft (R) Incremental Linker Version 14.39.33523.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCCompilerId.exe 
+      CMakeCCompilerId.obj 
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+      
+      The C compiler identification is MSVC, found in:
+        C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/CMakeFiles/3.28.0-msvc1/CompilerIdC/CMakeCCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1182 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:247 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Detecting C compiler /showIncludes prefix:
+        main.c
+        Примечание: включение файла:  C:\\Users\\Kir17\\source\\repos\\PqxxProject2\\out\\build\\x64-Debug\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "Примечание: включение файла:  "
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.39.33519/bin/Hostx64/x64/cl.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.39.33523 для x64
+      (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+      
+      CMakeCXXCompilerId.cpp
+      Microsoft (R) Incremental Linker Version 14.39.33523.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCXXCompilerId.exe 
+      CMakeCXXCompilerId.obj 
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+      
+      The CXX compiler identification is MSVC, found in:
+        C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/CMakeFiles/3.28.0-msvc1/CompilerIdCXX/CMakeCXXCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1182 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:247 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:5 (project)"
+    message: |
+      Detecting CXX compiler /showIncludes prefix:
+        main.c
+        Примечание: включение файла:  C:\\Users\\Kir17\\source\\repos\\PqxxProject2\\out\\build\\x64-Debug\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "Примечание: включение файла:  "
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:5 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-h2r1td"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-h2r1td"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-h2r1td'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_f3804
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_f3804.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_f3804.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_f3804.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f3804.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_f3804.exe /implib:cmTC_f3804.lib /pdb:cmTC_f3804.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:5 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-43sb2k"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-43sb2k"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-43sb2k'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_774d2
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_774d2.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_774d2.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_774d2.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_774d2.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_774d2.exe /implib:cmTC_774d2.lib /pdb:cmTC_774d2.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:38 (check_function_exists)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    checks:
+      - "Looking for poll"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-6sz2ur"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-6sz2ur"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_POLL"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-6sz2ur'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_387d6
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS -DCHECK_FUNCTION_EXISTS=poll /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_387d6.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_387d6.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\PqxxProject2\\out\\build\\x64-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-6sz2ur\\CheckFunctionExists.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_387d6.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_387d6.dir\\CheckFunctionExists.c.obj  /out:cmTC_387d6.exe /implib:cmTC_387d6.lib /pdb:cmTC_387d6.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_387d6.exe 
+        C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_387d6.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_387d6.dir\\CheckFunctionExists.c.obj  /out:cmTC_387d6.exe /implib:cmTC_387d6.lib /pdb:cmTC_387d6.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_387d6.dir\\CheckFunctionExists.c.obj /out:cmTC_387d6.exe /implib:cmTC_387d6.lib /pdb:cmTC_387d6.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_387d6.dir/intermediate.manifest CMakeFiles\\cmTC_387d6.dir/manifest.res" failed (exit code 1120) with the following output:
+        CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ poll в функции main.\x0d
+        cmTC_387d6.exe : fatal error LNK1120: неразрешенных внешних элементов: 1\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:2 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_CHARCONV_FLOAT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_ff50f
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_ff50f.dir\\PQXX_HAVE_CHARCONV_FLOAT.cxx.obj /FdCMakeFiles\\cmTC_ff50f.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CHARCONV_FLOAT.cxx
+        FAILED: CMakeFiles/cmTC_ff50f.dir/PQXX_HAVE_CHARCONV_FLOAT.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_ff50f.dir\\PQXX_HAVE_CHARCONV_FLOAT.cxx.obj /FdCMakeFiles\\cmTC_ff50f.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CHARCONV_FLOAT.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CHARCONV_FLOAT.cxx(15): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "and"
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:6 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_CHARCONV_INT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_98813
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_98813.dir\\PQXX_HAVE_CHARCONV_INT.cxx.obj /FdCMakeFiles\\cmTC_98813.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CHARCONV_INT.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_98813.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_98813.dir\\PQXX_HAVE_CHARCONV_INT.cxx.obj  /out:cmTC_98813.exe /implib:cmTC_98813.lib /pdb:cmTC_98813.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:10 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_CMP"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_3388f
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_3388f.dir\\PQXX_HAVE_CMP.cxx.obj /FdCMakeFiles\\cmTC_3388f.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CMP.cxx
+        FAILED: CMakeFiles/cmTC_3388f.dir/PQXX_HAVE_CMP.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_3388f.dir\\PQXX_HAVE_CMP.cxx.obj /FdCMakeFiles\\cmTC_3388f.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CMP.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CMP.cxx(8): error C2039: "cmp_greater": не является членом "std".
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility(40): note:  см. объявление "std"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CMP.cxx(8): error C3861: cmp_greater: идентификатор не найден
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CMP.cxx(8): error C2039: "cmp_less_equal": не является членом "std".
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility(40): note:  см. объявление "std"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CMP.cxx(8): error C3861: cmp_less_equal: идентификатор не найден
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:14 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_CONCEPTS"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_ab03f
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_ab03f.dir\\PQXX_HAVE_CONCEPTS.cxx.obj /FdCMakeFiles\\cmTC_ab03f.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CONCEPTS.cxx
+        FAILED: CMakeFiles/cmTC_ab03f.dir/PQXX_HAVE_CONCEPTS.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_ab03f.dir\\PQXX_HAVE_CONCEPTS.cxx.obj /FdCMakeFiles\\cmTC_ab03f.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CONCEPTS.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CONCEPTS.cxx(5): fatal error C1189: #error:  "No PQXX_HAVE_CONCEPTS: __cpp_concepts is not set."
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:18 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_CXA_DEMANGLE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_8380c
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_8380c.dir\\PQXX_HAVE_CXA_DEMANGLE.cxx.obj /FdCMakeFiles\\cmTC_8380c.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CXA_DEMANGLE.cxx
+        FAILED: CMakeFiles/cmTC_8380c.dir/PQXX_HAVE_CXA_DEMANGLE.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_8380c.dir\\PQXX_HAVE_CXA_DEMANGLE.cxx.obj /FdCMakeFiles\\cmTC_8380c.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CXA_DEMANGLE.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CXA_DEMANGLE.cxx(7): fatal error C1083: Не удается открыть файл включение: cxxabi.h: No such file or directory,
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:22 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_GCC_PURE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_146d2
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_146d2.dir\\PQXX_HAVE_GCC_PURE.cxx.obj /FdCMakeFiles\\cmTC_146d2.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx
+        FAILED: CMakeFiles/cmTC_146d2.dir/PQXX_HAVE_GCC_PURE.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_146d2.dir\\PQXX_HAVE_GCC_PURE.cxx.obj /FdCMakeFiles\\cmTC_146d2.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx(2): error C2065: pure: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx(2): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "f"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx(2): error C2059: синтаксическая ошибка: )
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx(3): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx(3): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx(9): error C3861: f: идентификатор не найден
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:26 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_GCC_VISIBILITY"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_a065d
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_a065d.dir\\PQXX_HAVE_GCC_VISIBILITY.cxx.obj /FdCMakeFiles\\cmTC_a065d.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx
+        FAILED: CMakeFiles/cmTC_a065d.dir/PQXX_HAVE_GCC_VISIBILITY.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_a065d.dir\\PQXX_HAVE_GCC_VISIBILITY.cxx.obj /FdCMakeFiles\\cmTC_a065d.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): error C2143: синтаксическая ошибка: отсутствие ")" перед "("
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): error C2079: "visibility" использует не имеющую определения структуру struct "__attribute__"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): error C2440: инициализация: невозможно преобразовать "const char [7]" в "int"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): note: Не существует контекста, в котором такое преобразование возможно
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): error C2059: синтаксическая ошибка: )
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): error C2059: синтаксическая ошибка: )
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "D"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(3): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(10): error C2065: D: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "d"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(10): error C2065: d: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(11): error C2065: d: необъявленный идентификатор
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:30 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_LIKELY"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_b661f
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_b661f.dir\\PQXX_HAVE_LIKELY.cxx.obj /FdCMakeFiles\\cmTC_b661f.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx
+        FAILED: CMakeFiles/cmTC_b661f.dir/PQXX_HAVE_LIKELY.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_b661f.dir\\PQXX_HAVE_LIKELY.cxx.obj /FdCMakeFiles\\cmTC_b661f.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx(7): error C2065: because: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx(7): error C2065: older: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx(7): error C2065: C: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx(7): error C2065: standard: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx(7): error C3861: deliberately_fail: идентификатор не найден
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx(11): warning C5051: для атрибута [[likely]] требуется не менее "/std:c++20", он игнорируется
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:34 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_MULTIDIM"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_47513
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_47513.dir\\PQXX_HAVE_MULTIDIM.cxx.obj /FdCMakeFiles\\cmTC_47513.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_MULTIDIM.cxx
+        FAILED: CMakeFiles/cmTC_47513.dir/PQXX_HAVE_MULTIDIM.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_47513.dir\\PQXX_HAVE_MULTIDIM.cxx.obj /FdCMakeFiles\\cmTC_47513.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_MULTIDIM.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_MULTIDIM.cxx(5): fatal error C1189: #error:  "No PQXX_HAVE_MULTIDIM: __cpp_multidimensional_subscript is not set."
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:38 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_PATH"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_3a2bc
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_3a2bc.dir\\PQXX_HAVE_PATH.cxx.obj /FdCMakeFiles\\cmTC_3a2bc.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_PATH.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_3a2bc.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_3a2bc.dir\\PQXX_HAVE_PATH.cxx.obj  /out:cmTC_3a2bc.exe /implib:cmTC_3a2bc.lib /pdb:cmTC_3a2bc.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:42 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_POLL"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_c30b4
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_c30b4.dir\\PQXX_HAVE_POLL.cxx.obj /FdCMakeFiles\\cmTC_c30b4.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_POLL.cxx
+        FAILED: CMakeFiles/cmTC_c30b4.dir/PQXX_HAVE_POLL.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_c30b4.dir\\PQXX_HAVE_POLL.cxx.obj /FdCMakeFiles\\cmTC_c30b4.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_POLL.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_POLL.cxx(2): fatal error C1083: Не удается открыть файл включение: poll.h: No such file or directory,
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:46 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_SLEEP_FOR"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_2cb45
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_2cb45.dir\\PQXX_HAVE_SLEEP_FOR.cxx.obj /FdCMakeFiles\\cmTC_2cb45.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SLEEP_FOR.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_2cb45.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_2cb45.dir\\PQXX_HAVE_SLEEP_FOR.cxx.obj  /out:cmTC_2cb45.exe /implib:cmTC_2cb45.lib /pdb:cmTC_2cb45.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:50 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_SOURCE_LOCATION"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_2062f
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_2062f.dir\\PQXX_HAVE_SOURCE_LOCATION.cxx.obj /FdCMakeFiles\\cmTC_2062f.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SOURCE_LOCATION.cxx
+        FAILED: CMakeFiles/cmTC_2062f.dir/PQXX_HAVE_SOURCE_LOCATION.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_2062f.dir\\PQXX_HAVE_SOURCE_LOCATION.cxx.obj /FdCMakeFiles\\cmTC_2062f.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SOURCE_LOCATION.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SOURCE_LOCATION.cxx(5): fatal error C1189: #error:  "No PQXX_HAVE_SOURCE_LOCATION: __cpp_lib_source_location is not set."
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:54 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_SPAN"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_95776
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_95776.dir\\PQXX_HAVE_SPAN.cxx.obj /FdCMakeFiles\\cmTC_95776.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SPAN.cxx
+        FAILED: CMakeFiles/cmTC_95776.dir/PQXX_HAVE_SPAN.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_95776.dir\\PQXX_HAVE_SPAN.cxx.obj /FdCMakeFiles\\cmTC_95776.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SPAN.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SPAN.cxx(5): fatal error C1189: #error:  "No PQXX_HAVE_SPAN: __cpp_lib_span is not set."
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:58 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_SSIZE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_01e86
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_01e86.dir\\PQXX_HAVE_SSIZE.cxx.obj /FdCMakeFiles\\cmTC_01e86.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SSIZE.cxx
+        FAILED: CMakeFiles/cmTC_01e86.dir/PQXX_HAVE_SSIZE.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_01e86.dir\\PQXX_HAVE_SSIZE.cxx.obj /FdCMakeFiles\\cmTC_01e86.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SSIZE.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SSIZE.cxx(5): fatal error C1189: #error:  "No PQXX_HAVE_SSIZE: __cpp_lib_ssize is not set."
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:62 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_STRERROR_R"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_61af4
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_61af4.dir\\PQXX_HAVE_STRERROR_R.cxx.obj /FdCMakeFiles\\cmTC_61af4.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx
+        FAILED: CMakeFiles/cmTC_61af4.dir/PQXX_HAVE_STRERROR_R.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_61af4.dir\\PQXX_HAVE_STRERROR_R.cxx.obj /FdCMakeFiles\\cmTC_61af4.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx(11): error C3861: strerror_r: идентификатор не найден
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx(13): error C2065: not: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx(13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "not"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx(13): error C2065: not: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx(13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "res"
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:66 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_STRERROR_S"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_4c7fc
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_4c7fc.dir\\PQXX_HAVE_STRERROR_S.cxx.obj /FdCMakeFiles\\cmTC_4c7fc.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_S.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_4c7fc.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4c7fc.dir\\PQXX_HAVE_STRERROR_S.cxx.obj  /out:cmTC_4c7fc.exe /implib:cmTC_4c7fc.lib /pdb:cmTC_4c7fc.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:70 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_THREAD_LOCAL"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_6bfcb
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_6bfcb.dir\\PQXX_HAVE_THREAD_LOCAL.cxx.obj /FdCMakeFiles\\cmTC_6bfcb.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_THREAD_LOCAL.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_6bfcb.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_6bfcb.dir\\PQXX_HAVE_THREAD_LOCAL.cxx.obj  /out:cmTC_6bfcb.exe /implib:cmTC_6bfcb.lib /pdb:cmTC_6bfcb.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:74 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_YEAR_MONTH_DAY"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_dedbf
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_dedbf.dir\\PQXX_HAVE_YEAR_MONTH_DAY.cxx.obj /FdCMakeFiles\\cmTC_dedbf.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_YEAR_MONTH_DAY.cxx
+        FAILED: CMakeFiles/cmTC_dedbf.dir/PQXX_HAVE_YEAR_MONTH_DAY.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_dedbf.dir\\PQXX_HAVE_YEAR_MONTH_DAY.cxx.obj /FdCMakeFiles\\cmTC_dedbf.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_YEAR_MONTH_DAY.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_YEAR_MONTH_DAY.cxx(6): error C2039: "year": не является членом "std::chrono".
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\__msvc_chrono.hpp(806): note:  см. объявление "std::chrono"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_YEAR_MONTH_DAY.cxx(6): error C2065: year: необъявленный идентификатор
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:78 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "no_need_fslib"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_b623f
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_b623f.dir\\no_need_fslib.cxx.obj /FdCMakeFiles\\cmTC_b623f.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\no_need_fslib.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_b623f.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b623f.dir\\no_need_fslib.cxx.obj  /out:cmTC_b623f.exe /implib:cmTC_b623f.lib /pdb:cmTC_b623f.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:2 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_CHARCONV_FLOAT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_65758
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_65758.dir\\PQXX_HAVE_CHARCONV_FLOAT.cxx.obj /FdCMakeFiles\\cmTC_65758.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CHARCONV_FLOAT.cxx
+        FAILED: CMakeFiles/cmTC_65758.dir/PQXX_HAVE_CHARCONV_FLOAT.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_65758.dir\\PQXX_HAVE_CHARCONV_FLOAT.cxx.obj /FdCMakeFiles\\cmTC_65758.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CHARCONV_FLOAT.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CHARCONV_FLOAT.cxx(15): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "and"
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:6 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_CHARCONV_INT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_8c68c
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_8c68c.dir\\PQXX_HAVE_CHARCONV_INT.cxx.obj /FdCMakeFiles\\cmTC_8c68c.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CHARCONV_INT.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_8c68c.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_8c68c.dir\\PQXX_HAVE_CHARCONV_INT.cxx.obj  /out:cmTC_8c68c.exe /implib:cmTC_8c68c.lib /pdb:cmTC_8c68c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:10 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_CMP"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_84028
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_84028.dir\\PQXX_HAVE_CMP.cxx.obj /FdCMakeFiles\\cmTC_84028.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CMP.cxx
+        FAILED: CMakeFiles/cmTC_84028.dir/PQXX_HAVE_CMP.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_84028.dir\\PQXX_HAVE_CMP.cxx.obj /FdCMakeFiles\\cmTC_84028.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CMP.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CMP.cxx(8): error C2039: "cmp_greater": не является членом "std".
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility(40): note:  см. объявление "std"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CMP.cxx(8): error C3861: cmp_greater: идентификатор не найден
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CMP.cxx(8): error C2039: "cmp_less_equal": не является членом "std".
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility(40): note:  см. объявление "std"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CMP.cxx(8): error C3861: cmp_less_equal: идентификатор не найден
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:14 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_CONCEPTS"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_01078
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_01078.dir\\PQXX_HAVE_CONCEPTS.cxx.obj /FdCMakeFiles\\cmTC_01078.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CONCEPTS.cxx
+        FAILED: CMakeFiles/cmTC_01078.dir/PQXX_HAVE_CONCEPTS.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_01078.dir\\PQXX_HAVE_CONCEPTS.cxx.obj /FdCMakeFiles\\cmTC_01078.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CONCEPTS.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CONCEPTS.cxx(5): fatal error C1189: #error:  "No PQXX_HAVE_CONCEPTS: __cpp_concepts is not set."
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:18 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_CXA_DEMANGLE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_23f2b
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_23f2b.dir\\PQXX_HAVE_CXA_DEMANGLE.cxx.obj /FdCMakeFiles\\cmTC_23f2b.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CXA_DEMANGLE.cxx
+        FAILED: CMakeFiles/cmTC_23f2b.dir/PQXX_HAVE_CXA_DEMANGLE.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_23f2b.dir\\PQXX_HAVE_CXA_DEMANGLE.cxx.obj /FdCMakeFiles\\cmTC_23f2b.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CXA_DEMANGLE.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CXA_DEMANGLE.cxx(7): fatal error C1083: Не удается открыть файл включение: cxxabi.h: No such file or directory,
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:22 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_GCC_PURE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_d7086
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_d7086.dir\\PQXX_HAVE_GCC_PURE.cxx.obj /FdCMakeFiles\\cmTC_d7086.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx
+        FAILED: CMakeFiles/cmTC_d7086.dir/PQXX_HAVE_GCC_PURE.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_d7086.dir\\PQXX_HAVE_GCC_PURE.cxx.obj /FdCMakeFiles\\cmTC_d7086.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx(2): error C2065: pure: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx(2): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "f"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx(2): error C2059: синтаксическая ошибка: )
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx(3): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx(3): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx(9): error C3861: f: идентификатор не найден
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:26 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_GCC_VISIBILITY"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_bbca8
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_bbca8.dir\\PQXX_HAVE_GCC_VISIBILITY.cxx.obj /FdCMakeFiles\\cmTC_bbca8.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx
+        FAILED: CMakeFiles/cmTC_bbca8.dir/PQXX_HAVE_GCC_VISIBILITY.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_bbca8.dir\\PQXX_HAVE_GCC_VISIBILITY.cxx.obj /FdCMakeFiles\\cmTC_bbca8.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): error C2143: синтаксическая ошибка: отсутствие ")" перед "("
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): error C2079: "visibility" использует не имеющую определения структуру struct "__attribute__"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): error C2440: инициализация: невозможно преобразовать "const char [7]" в "int"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): note: Не существует контекста, в котором такое преобразование возможно
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): error C2059: синтаксическая ошибка: )
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): error C2059: синтаксическая ошибка: )
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "D"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(3): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(10): error C2065: D: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "d"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(10): error C2065: d: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(11): error C2065: d: необъявленный идентификатор
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:30 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_LIKELY"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_42df7
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_42df7.dir\\PQXX_HAVE_LIKELY.cxx.obj /FdCMakeFiles\\cmTC_42df7.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx
+        FAILED: CMakeFiles/cmTC_42df7.dir/PQXX_HAVE_LIKELY.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_42df7.dir\\PQXX_HAVE_LIKELY.cxx.obj /FdCMakeFiles\\cmTC_42df7.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx(7): error C2065: because: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx(7): error C2065: older: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx(7): error C2065: C: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx(7): error C2065: standard: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx(7): error C3861: deliberately_fail: идентификатор не найден
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx(11): warning C5051: для атрибута [[likely]] требуется не менее "/std:c++20", он игнорируется
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:34 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_MULTIDIM"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_ebd87
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_ebd87.dir\\PQXX_HAVE_MULTIDIM.cxx.obj /FdCMakeFiles\\cmTC_ebd87.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_MULTIDIM.cxx
+        FAILED: CMakeFiles/cmTC_ebd87.dir/PQXX_HAVE_MULTIDIM.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_ebd87.dir\\PQXX_HAVE_MULTIDIM.cxx.obj /FdCMakeFiles\\cmTC_ebd87.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_MULTIDIM.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_MULTIDIM.cxx(5): fatal error C1189: #error:  "No PQXX_HAVE_MULTIDIM: __cpp_multidimensional_subscript is not set."
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:38 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_PATH"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_4a019
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_4a019.dir\\PQXX_HAVE_PATH.cxx.obj /FdCMakeFiles\\cmTC_4a019.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_PATH.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_4a019.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4a019.dir\\PQXX_HAVE_PATH.cxx.obj  /out:cmTC_4a019.exe /implib:cmTC_4a019.lib /pdb:cmTC_4a019.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:42 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_POLL"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_d59d8
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_d59d8.dir\\PQXX_HAVE_POLL.cxx.obj /FdCMakeFiles\\cmTC_d59d8.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_POLL.cxx
+        FAILED: CMakeFiles/cmTC_d59d8.dir/PQXX_HAVE_POLL.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_d59d8.dir\\PQXX_HAVE_POLL.cxx.obj /FdCMakeFiles\\cmTC_d59d8.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_POLL.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_POLL.cxx(2): fatal error C1083: Не удается открыть файл включение: poll.h: No such file or directory,
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:46 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_SLEEP_FOR"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_e06bb
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_e06bb.dir\\PQXX_HAVE_SLEEP_FOR.cxx.obj /FdCMakeFiles\\cmTC_e06bb.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SLEEP_FOR.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_e06bb.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_e06bb.dir\\PQXX_HAVE_SLEEP_FOR.cxx.obj  /out:cmTC_e06bb.exe /implib:cmTC_e06bb.lib /pdb:cmTC_e06bb.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:50 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_SOURCE_LOCATION"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_7d3fc
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_7d3fc.dir\\PQXX_HAVE_SOURCE_LOCATION.cxx.obj /FdCMakeFiles\\cmTC_7d3fc.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SOURCE_LOCATION.cxx
+        FAILED: CMakeFiles/cmTC_7d3fc.dir/PQXX_HAVE_SOURCE_LOCATION.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_7d3fc.dir\\PQXX_HAVE_SOURCE_LOCATION.cxx.obj /FdCMakeFiles\\cmTC_7d3fc.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SOURCE_LOCATION.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SOURCE_LOCATION.cxx(5): fatal error C1189: #error:  "No PQXX_HAVE_SOURCE_LOCATION: __cpp_lib_source_location is not set."
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:54 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_SPAN"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_26dc2
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_26dc2.dir\\PQXX_HAVE_SPAN.cxx.obj /FdCMakeFiles\\cmTC_26dc2.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SPAN.cxx
+        FAILED: CMakeFiles/cmTC_26dc2.dir/PQXX_HAVE_SPAN.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_26dc2.dir\\PQXX_HAVE_SPAN.cxx.obj /FdCMakeFiles\\cmTC_26dc2.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SPAN.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SPAN.cxx(5): fatal error C1189: #error:  "No PQXX_HAVE_SPAN: __cpp_lib_span is not set."
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:58 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_SSIZE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_dbd04
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_dbd04.dir\\PQXX_HAVE_SSIZE.cxx.obj /FdCMakeFiles\\cmTC_dbd04.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SSIZE.cxx
+        FAILED: CMakeFiles/cmTC_dbd04.dir/PQXX_HAVE_SSIZE.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_dbd04.dir\\PQXX_HAVE_SSIZE.cxx.obj /FdCMakeFiles\\cmTC_dbd04.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SSIZE.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SSIZE.cxx(5): fatal error C1189: #error:  "No PQXX_HAVE_SSIZE: __cpp_lib_ssize is not set."
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:62 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_STRERROR_R"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_3964a
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_3964a.dir\\PQXX_HAVE_STRERROR_R.cxx.obj /FdCMakeFiles\\cmTC_3964a.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx
+        FAILED: CMakeFiles/cmTC_3964a.dir/PQXX_HAVE_STRERROR_R.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_3964a.dir\\PQXX_HAVE_STRERROR_R.cxx.obj /FdCMakeFiles\\cmTC_3964a.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx(11): error C3861: strerror_r: идентификатор не найден
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx(13): error C2065: not: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx(13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "not"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx(13): error C2065: not: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx(13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "res"
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:66 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_STRERROR_S"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_6083c
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_6083c.dir\\PQXX_HAVE_STRERROR_S.cxx.obj /FdCMakeFiles\\cmTC_6083c.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_S.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_6083c.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_6083c.dir\\PQXX_HAVE_STRERROR_S.cxx.obj  /out:cmTC_6083c.exe /implib:cmTC_6083c.lib /pdb:cmTC_6083c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:70 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_THREAD_LOCAL"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_32144
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_32144.dir\\PQXX_HAVE_THREAD_LOCAL.cxx.obj /FdCMakeFiles\\cmTC_32144.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_THREAD_LOCAL.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_32144.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_32144.dir\\PQXX_HAVE_THREAD_LOCAL.cxx.obj  /out:cmTC_32144.exe /implib:cmTC_32144.lib /pdb:cmTC_32144.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:74 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_YEAR_MONTH_DAY"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_d9d4e
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_d9d4e.dir\\PQXX_HAVE_YEAR_MONTH_DAY.cxx.obj /FdCMakeFiles\\cmTC_d9d4e.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_YEAR_MONTH_DAY.cxx
+        FAILED: CMakeFiles/cmTC_d9d4e.dir/PQXX_HAVE_YEAR_MONTH_DAY.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_d9d4e.dir\\PQXX_HAVE_YEAR_MONTH_DAY.cxx.obj /FdCMakeFiles\\cmTC_d9d4e.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_YEAR_MONTH_DAY.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_YEAR_MONTH_DAY.cxx(6): error C2039: "year": не является членом "std::chrono".
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\__msvc_chrono.hpp(806): note:  см. объявление "std::chrono"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_YEAR_MONTH_DAY.cxx(6): error C2065: year: необъявленный идентификатор
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:78 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "no_need_fslib"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_b86d6
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_b86d6.dir\\no_need_fslib.cxx.obj /FdCMakeFiles\\cmTC_b86d6.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\no_need_fslib.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_b86d6.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b86d6.dir\\no_need_fslib.cxx.obj  /out:cmTC_b86d6.exe /implib:cmTC_b86d6.lib /pdb:cmTC_b86d6.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:2 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_CHARCONV_FLOAT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_1a895
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_1a895.dir\\PQXX_HAVE_CHARCONV_FLOAT.cxx.obj /FdCMakeFiles\\cmTC_1a895.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CHARCONV_FLOAT.cxx
+        FAILED: CMakeFiles/cmTC_1a895.dir/PQXX_HAVE_CHARCONV_FLOAT.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_1a895.dir\\PQXX_HAVE_CHARCONV_FLOAT.cxx.obj /FdCMakeFiles\\cmTC_1a895.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CHARCONV_FLOAT.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CHARCONV_FLOAT.cxx(15): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "and"
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:6 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_CHARCONV_INT"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_4a369
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_4a369.dir\\PQXX_HAVE_CHARCONV_INT.cxx.obj /FdCMakeFiles\\cmTC_4a369.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CHARCONV_INT.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_4a369.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4a369.dir\\PQXX_HAVE_CHARCONV_INT.cxx.obj  /out:cmTC_4a369.exe /implib:cmTC_4a369.lib /pdb:cmTC_4a369.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:10 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_CMP"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_37b6c
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_37b6c.dir\\PQXX_HAVE_CMP.cxx.obj /FdCMakeFiles\\cmTC_37b6c.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CMP.cxx
+        FAILED: CMakeFiles/cmTC_37b6c.dir/PQXX_HAVE_CMP.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_37b6c.dir\\PQXX_HAVE_CMP.cxx.obj /FdCMakeFiles\\cmTC_37b6c.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CMP.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CMP.cxx(8): error C2039: "cmp_greater": не является членом "std".
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility(40): note:  см. объявление "std"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CMP.cxx(8): error C3861: cmp_greater: идентификатор не найден
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CMP.cxx(8): error C2039: "cmp_less_equal": не является членом "std".
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\utility(40): note:  см. объявление "std"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CMP.cxx(8): error C3861: cmp_less_equal: идентификатор не найден
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:14 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_CONCEPTS"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_366f6
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_366f6.dir\\PQXX_HAVE_CONCEPTS.cxx.obj /FdCMakeFiles\\cmTC_366f6.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CONCEPTS.cxx
+        FAILED: CMakeFiles/cmTC_366f6.dir/PQXX_HAVE_CONCEPTS.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_366f6.dir\\PQXX_HAVE_CONCEPTS.cxx.obj /FdCMakeFiles\\cmTC_366f6.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CONCEPTS.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CONCEPTS.cxx(5): fatal error C1189: #error:  "No PQXX_HAVE_CONCEPTS: __cpp_concepts is not set."
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:18 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_CXA_DEMANGLE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_184ab
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_184ab.dir\\PQXX_HAVE_CXA_DEMANGLE.cxx.obj /FdCMakeFiles\\cmTC_184ab.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CXA_DEMANGLE.cxx
+        FAILED: CMakeFiles/cmTC_184ab.dir/PQXX_HAVE_CXA_DEMANGLE.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_184ab.dir\\PQXX_HAVE_CXA_DEMANGLE.cxx.obj /FdCMakeFiles\\cmTC_184ab.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CXA_DEMANGLE.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_CXA_DEMANGLE.cxx(7): fatal error C1083: Не удается открыть файл включение: cxxabi.h: No such file or directory,
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:22 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_GCC_PURE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_f6bb8
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_f6bb8.dir\\PQXX_HAVE_GCC_PURE.cxx.obj /FdCMakeFiles\\cmTC_f6bb8.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx
+        FAILED: CMakeFiles/cmTC_f6bb8.dir/PQXX_HAVE_GCC_PURE.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_f6bb8.dir\\PQXX_HAVE_GCC_PURE.cxx.obj /FdCMakeFiles\\cmTC_f6bb8.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx(2): error C2065: pure: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx(2): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "f"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx(2): error C2059: синтаксическая ошибка: )
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx(3): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx(3): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_PURE.cxx(9): error C3861: f: идентификатор не найден
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:26 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_GCC_VISIBILITY"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_637c8
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_637c8.dir\\PQXX_HAVE_GCC_VISIBILITY.cxx.obj /FdCMakeFiles\\cmTC_637c8.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx
+        FAILED: CMakeFiles/cmTC_637c8.dir/PQXX_HAVE_GCC_VISIBILITY.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_637c8.dir\\PQXX_HAVE_GCC_VISIBILITY.cxx.obj /FdCMakeFiles\\cmTC_637c8.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): error C2143: синтаксическая ошибка: отсутствие ")" перед "("
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): error C2079: "visibility" использует не имеющую определения структуру struct "__attribute__"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): error C2440: инициализация: невозможно преобразовать "const char [7]" в "int"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): note: Не существует контекста, в котором такое преобразование возможно
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): error C2059: синтаксическая ошибка: )
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): error C2059: синтаксическая ошибка: )
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(2): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "D"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(3): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(10): error C2065: D: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "d"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(10): error C2065: d: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_GCC_VISIBILITY.cxx(11): error C2065: d: необъявленный идентификатор
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:30 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_LIKELY"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_3f7c0
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_3f7c0.dir\\PQXX_HAVE_LIKELY.cxx.obj /FdCMakeFiles\\cmTC_3f7c0.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx
+        FAILED: CMakeFiles/cmTC_3f7c0.dir/PQXX_HAVE_LIKELY.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_3f7c0.dir\\PQXX_HAVE_LIKELY.cxx.obj /FdCMakeFiles\\cmTC_3f7c0.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx(7): error C2065: because: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx(7): error C2065: older: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx(7): error C2065: C: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx(7): error C2065: standard: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx(7): error C3861: deliberately_fail: идентификатор не найден
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_LIKELY.cxx(11): warning C5051: для атрибута [[likely]] требуется не менее "/std:c++20", он игнорируется
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:34 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_MULTIDIM"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_5b1de
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_5b1de.dir\\PQXX_HAVE_MULTIDIM.cxx.obj /FdCMakeFiles\\cmTC_5b1de.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_MULTIDIM.cxx
+        FAILED: CMakeFiles/cmTC_5b1de.dir/PQXX_HAVE_MULTIDIM.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_5b1de.dir\\PQXX_HAVE_MULTIDIM.cxx.obj /FdCMakeFiles\\cmTC_5b1de.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_MULTIDIM.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_MULTIDIM.cxx(5): fatal error C1189: #error:  "No PQXX_HAVE_MULTIDIM: __cpp_multidimensional_subscript is not set."
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:38 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_PATH"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_f2cfa
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_f2cfa.dir\\PQXX_HAVE_PATH.cxx.obj /FdCMakeFiles\\cmTC_f2cfa.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_PATH.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_f2cfa.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f2cfa.dir\\PQXX_HAVE_PATH.cxx.obj  /out:cmTC_f2cfa.exe /implib:cmTC_f2cfa.lib /pdb:cmTC_f2cfa.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:42 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_POLL"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_0a01d
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_0a01d.dir\\PQXX_HAVE_POLL.cxx.obj /FdCMakeFiles\\cmTC_0a01d.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_POLL.cxx
+        FAILED: CMakeFiles/cmTC_0a01d.dir/PQXX_HAVE_POLL.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_0a01d.dir\\PQXX_HAVE_POLL.cxx.obj /FdCMakeFiles\\cmTC_0a01d.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_POLL.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_POLL.cxx(2): fatal error C1083: Не удается открыть файл включение: poll.h: No such file or directory,
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:46 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_SLEEP_FOR"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_1a48f
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_1a48f.dir\\PQXX_HAVE_SLEEP_FOR.cxx.obj /FdCMakeFiles\\cmTC_1a48f.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SLEEP_FOR.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_1a48f.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_1a48f.dir\\PQXX_HAVE_SLEEP_FOR.cxx.obj  /out:cmTC_1a48f.exe /implib:cmTC_1a48f.lib /pdb:cmTC_1a48f.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:50 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_SOURCE_LOCATION"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_74f45
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_74f45.dir\\PQXX_HAVE_SOURCE_LOCATION.cxx.obj /FdCMakeFiles\\cmTC_74f45.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SOURCE_LOCATION.cxx
+        FAILED: CMakeFiles/cmTC_74f45.dir/PQXX_HAVE_SOURCE_LOCATION.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_74f45.dir\\PQXX_HAVE_SOURCE_LOCATION.cxx.obj /FdCMakeFiles\\cmTC_74f45.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SOURCE_LOCATION.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SOURCE_LOCATION.cxx(5): fatal error C1189: #error:  "No PQXX_HAVE_SOURCE_LOCATION: __cpp_lib_source_location is not set."
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:54 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_SPAN"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_7d6f1
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_7d6f1.dir\\PQXX_HAVE_SPAN.cxx.obj /FdCMakeFiles\\cmTC_7d6f1.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SPAN.cxx
+        FAILED: CMakeFiles/cmTC_7d6f1.dir/PQXX_HAVE_SPAN.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_7d6f1.dir\\PQXX_HAVE_SPAN.cxx.obj /FdCMakeFiles\\cmTC_7d6f1.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SPAN.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SPAN.cxx(5): fatal error C1189: #error:  "No PQXX_HAVE_SPAN: __cpp_lib_span is not set."
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:58 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_SSIZE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_ef1f5
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_ef1f5.dir\\PQXX_HAVE_SSIZE.cxx.obj /FdCMakeFiles\\cmTC_ef1f5.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SSIZE.cxx
+        FAILED: CMakeFiles/cmTC_ef1f5.dir/PQXX_HAVE_SSIZE.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_ef1f5.dir\\PQXX_HAVE_SSIZE.cxx.obj /FdCMakeFiles\\cmTC_ef1f5.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SSIZE.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_SSIZE.cxx(5): fatal error C1189: #error:  "No PQXX_HAVE_SSIZE: __cpp_lib_ssize is not set."
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:62 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_STRERROR_R"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_0204f
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_0204f.dir\\PQXX_HAVE_STRERROR_R.cxx.obj /FdCMakeFiles\\cmTC_0204f.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx
+        FAILED: CMakeFiles/cmTC_0204f.dir/PQXX_HAVE_STRERROR_R.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_0204f.dir\\PQXX_HAVE_STRERROR_R.cxx.obj /FdCMakeFiles\\cmTC_0204f.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx(11): error C3861: strerror_r: идентификатор не найден
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx(13): error C2065: not: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx(13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "not"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx(13): error C2065: not: необъявленный идентификатор
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_R.cxx(13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "res"
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:66 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_STRERROR_S"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_fb4f7
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_fb4f7.dir\\PQXX_HAVE_STRERROR_S.cxx.obj /FdCMakeFiles\\cmTC_fb4f7.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_STRERROR_S.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_fb4f7.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_fb4f7.dir\\PQXX_HAVE_STRERROR_S.cxx.obj  /out:cmTC_fb4f7.exe /implib:cmTC_fb4f7.lib /pdb:cmTC_fb4f7.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:70 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_THREAD_LOCAL"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_10f91
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_10f91.dir\\PQXX_HAVE_THREAD_LOCAL.cxx.obj /FdCMakeFiles\\cmTC_10f91.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_THREAD_LOCAL.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_10f91.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_10f91.dir\\PQXX_HAVE_THREAD_LOCAL.cxx.obj  /out:cmTC_10f91.exe /implib:cmTC_10f91.lib /pdb:cmTC_10f91.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:74 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "PQXX_HAVE_YEAR_MONTH_DAY"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_c9b7b
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_c9b7b.dir\\PQXX_HAVE_YEAR_MONTH_DAY.cxx.obj /FdCMakeFiles\\cmTC_c9b7b.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_YEAR_MONTH_DAY.cxx
+        FAILED: CMakeFiles/cmTC_c9b7b.dir/PQXX_HAVE_YEAR_MONTH_DAY.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_c9b7b.dir\\PQXX_HAVE_YEAR_MONTH_DAY.cxx.obj /FdCMakeFiles\\cmTC_c9b7b.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_YEAR_MONTH_DAY.cxx
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_YEAR_MONTH_DAY.cxx(6): error C2039: "year": не является членом "std::chrono".
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\__msvc_chrono.hpp(806): note:  см. объявление "std::chrono"
+        C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\PQXX_HAVE_YEAR_MONTH_DAY.cxx(6): error C2065: year: необъявленный идентификатор
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/pqxx_cxx_feature_checks.cmake:78 (try_compile)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake/config.cmake:56 (include)"
+      - "C:/Users/Kir17/source/repos/libpqxx-7.9.1/CMakeLists.txt:27 (include)"
+    directories:
+      source: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+      binary: "C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/Users/Kir17/source/repos/libpqxx-7.9.1/cmake"
+    buildResult:
+      variable: "no_need_fslib"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Kir17/source/repos/PqxxProject2/out/build/x64-Debug/pqxx-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_e70c7
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /showIncludes /FoCMakeFiles\\cmTC_e70c7.dir\\no_need_fslib.cxx.obj /FdCMakeFiles\\cmTC_e70c7.dir\\ /FS -c C:\\Users\\Kir17\\source\\repos\\libpqxx-7.9.1\\config-tests\\no_need_fslib.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_e70c7.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100190~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1439~1.335\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_e70c7.dir\\no_need_fslib.cxx.obj  /out:cmTC_e70c7.exe /implib:cmTC_e70c7.lib /pdb:cmTC_e70c7.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+...
